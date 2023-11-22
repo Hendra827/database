@@ -7,13 +7,22 @@
     "kedalaman": "109 Km",
     "wilayah": "Pusat gempa berada di laut 68 Km Barat Laut Halmahera Barat",
     "warning": [
+      "III-IV Minahasa",
+      "III-IV Minahasa Utara",
       "III Tidore",
       "III Bitung",
       "III-IV Halmahera Barat",
       "III - IV Halmahera Utara",
       "III-IV Ternate",
       "III-IV Manado",
-      "IV Siau"
+      "IV Siau",
+      "III-IV Minahasa Tenggara",
+      "III-IV Tomohon",
+      "III Talaud",
+      "III Halmahera Timur",
+      "III Kotamobagu",
+      "III Morotai",
+      "II-III Kepulauan Sula"
     ]
   },
   {
