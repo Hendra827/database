@@ -1,248 +1,236 @@
 [
   {
-    "waktu": "11/12/2023 02:52:14 WIB",
-    "lintang": "4.39 LS",
-    "bujur": "139.67 BT",
-    "magnitudo": "5.5",
-    "kedalaman": "72 Km",
-    "wilayah": "Pusat gempa berada di darat 55 km TimurLaut Yahukimo",
+    "waktu": "22/02/2024 10:06:34 WIB",
+    "lintang": "8.05 LS",
+    "bujur": "107.74 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "24 Km",
+    "wilayah": "Pusat gempa berada di laut 87 km BaratDaya Kab. Tasikmalaya",
     "warning": [
-      "III-IV Oksibil"
+      "II Kab. Tasikmalaya"
     ]
   },
   {
-    "waktu": "10/12/2023 11:49:46 WIB",
-    "lintang": "3.55 LS",
-    "bujur": "141.05 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "105 Km",
-    "wilayah": "Pusat gempa berada di darat 32 km Tenggara Senggi-Keerom",
-    "warning": [
-      "III Kota Jayapura",
-      "II Kab. Jayapura"
-    ]
-  },
-  {
-    "waktu": "08/12/2023 02:00:45 WIB",
-    "lintang": "6.73 LS",
-    "bujur": "106.61 BT",
-    "magnitudo": "4",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km Barat Daya Kota Bogor",
-    "warning": [
-      "III Kalapanunggal Sukabumi"
-    ]
-  },
-  {
-    "waktu": "07/12/2023 21:00:02 WIB",
-    "lintang": "8.73 LS",
-    "bujur": "115.37 BT",
-    "magnitudo": "3.1",
+    "waktu": "21/02/2024 13:12:47 WIB",
+    "lintang": "8.35 LS",
+    "bujur": "116.46 BT",
+    "magnitudo": "3.2",
     "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 17 km Timur Laut Kuta Selatan",
+    "wilayah": "Pusat gempa berada di darat 33 Km Timur Laut Lombok Utara",
     "warning": [
-      "II Nusa Dua"
+      "II Lombok Utara"
     ]
   },
   {
-    "waktu": "07/12/2023 17:53:39 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.1 BT",
-    "magnitudo": "2.9",
-    "kedalaman": "8 Km",
-    "wilayah": "Pusat gempa berada di darat 4 Km Barat Laut Kabupaten Cianjur",
-    "warning": [
-      "III Cianjur",
-      "III Cugenang"
-    ]
-  },
-  {
-    "waktu": "07/12/2023 16:59:56 WIB",
-    "lintang": "6.85 LS",
-    "bujur": "107.08 BT",
-    "magnitudo": "2.8",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km BaratDaya Kab. Cianjur",
-    "warning": [
-      "III Cianjur",
-      "III Cugenang",
-      "III Cipanas",
-      "III Pacet"
-    ]
-  },
-  {
-    "waktu": "06/12/2023 21:20:06 WIB",
-    "lintang": "6.76 LS",
-    "bujur": "106.54 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 25 km barat laut Kab. Sukabumi",
-    "warning": [
-      "II-III Bogor Barat",
-      "II-III Cisolok",
-      "II-III Bayah",
-      "II-III Leuwiliang"
-    ]
-  },
-  {
-    "waktu": "06/12/2023 20:20:02 WIB",
-    "lintang": "6.77 LS",
-    "bujur": "106.52 BT",
-    "magnitudo": "3",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 24 km barat laut Kab. Sukabumi",
-    "warning": [
-      "II-III Bogor Barat",
-      "II-III Cisolok",
-      "II-III Bayah",
-      "II-III Leuwiliang"
-    ]
-  },
-  {
-    "waktu": "05/12/2023 19:50:51 WIB",
-    "lintang": "6.82 LS",
-    "bujur": "107.07 BT",
-    "magnitudo": "2.6",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di darat 7 km barat laut Kab. Cianjur",
-    "warning": [
-      "II-III Cugenang",
-      "II-III Cianjur"
-    ]
-  },
-  {
-    "waktu": "05/12/2023 19:36:37 WIB",
-    "lintang": "2.64 LU",
-    "bujur": "128.24 BT",
-    "magnitudo": "5.6",
-    "kedalaman": "18 Km",
-    "wilayah": "Pusat gempa berada di laut 64 km timur laut Pulaudoi",
-    "warning": [
-      "IV Morotai",
-      "III Halmahera Utara"
-    ]
-  },
-  {
-    "waktu": "05/12/2023 16:14:13 WIB",
-    "lintang": "7.23 LS",
-    "bujur": "107.73 BT",
-    "magnitudo": "3.5",
-    "kedalaman": "5 Km",
-    "wilayah": "Pusat gempa berada di darat 18 km Baratdaya Garut",
-    "warning": [
-      "III Garut",
-      "II-III Majalaya",
-      "II-III Kertasari",
-      "II-III Ciwidey",
-      "II-III Balegede",
-      "II-III Rancabali",
-      "II Pangalengan"
-    ]
-  },
-  {
-    "waktu": "04/12/2023 18:12:53 WIB",
-    "lintang": "5.23 LU",
-    "bujur": "96.21 BT",
-    "magnitudo": "4.3",
-    "kedalaman": "11 Km",
-    "wilayah": "Pusat gempa berada di Darat 27 Km BaratLaut Kab. Pidie Jaya",
-    "warning": [
-      "III Pidie Jaya",
-      "III Pidie",
-      "II Bener Meriah"
-    ]
-  },
-  {
-    "waktu": "03/12/2023 08:16:28 WIB",
-    "lintang": "8.95 LS",
-    "bujur": "118.79 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "67 Km",
-    "wilayah": "Pusat gempa berada di Laut 54 Tenggara Kota Bima",
-    "warning": [
-      "II-III Bima"
-    ]
-  },
-  {
-    "waktu": "03/12/2023 01:32:02 WIB",
-    "lintang": "7.22 LS",
-    "bujur": "107.43 BT",
+    "waktu": "20/02/2024 18:00:52 WIB",
+    "lintang": "2.56 LS",
+    "bujur": "140.65 BT",
     "magnitudo": "2.7",
+    "kedalaman": "12 Km",
+    "wilayah": "Pusat gempa berada di darat, 5 km BaratLaut Kota Jayapura",
+    "warning": [
+      "II Jayapura"
+    ]
+  },
+  {
+    "waktu": "20/02/2024 11:27:14 WIB",
+    "lintang": "8.2 LS",
+    "bujur": "108.44 BT",
+    "magnitudo": "3.7",
+    "kedalaman": "37 Km",
+    "wilayah": "Pusat gempa berada di Laut 55 km Barat Daya Kab. Pangandaran",
+    "warning": [
+      "III Pangandaran"
+    ]
+  },
+  {
+    "waktu": "20/02/2024 10:46:55 WIB",
+    "lintang": "3.46 LS",
+    "bujur": "139.86 BT",
+    "magnitudo": "4.8",
+    "kedalaman": "79 Km",
+    "wilayah": "Pusat gempa berada di darat 58 Km Timurlaut Yalimo",
+    "warning": [
+      "II Genyem"
+    ]
+  },
+  {
+    "waktu": "19/02/2024 07:00:25 WIB",
+    "lintang": "9.49 LS",
+    "bujur": "115.93 BT",
+    "magnitudo": "4.3",
+    "kedalaman": "41 Km",
+    "wilayah": "Pusat gempa berada di Laut 92 km BaratDaya Lombok Barat",
+    "warning": [
+      "II Mataram",
+      "II Lombok Barat",
+      "II Lombok Tengah"
+    ]
+  },
+  {
+    "waktu": "18/02/2024 11:32:42 WIB",
+    "lintang": "2.78 LS",
+    "bujur": "115.69 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 26 km Tenggara Hulu Sungai Tengah",
+    "warning": [
+      "II - III Tapin"
+    ]
+  },
+  {
+    "waktu": "17/02/2024 23:47:28 WIB",
+    "lintang": "8.38 LS",
+    "bujur": "114.49 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada dilaut 12 km BaratDaya Jembrana",
+    "warning": [
+      "III Banyuwangi",
+      "III Jembrana"
+    ]
+  },
+  {
+    "waktu": "16/02/2024 18:51:58 WIB",
+    "lintang": "7.38 LS",
+    "bujur": "108.24 BT",
+    "magnitudo": "3.1",
     "kedalaman": "6 Km",
-    "wilayah": "Pusat gempa berada di darat, 24 km BaratDaya Kab. Bandung",
+    "wilayah": "Pusat gempa berada di darat 8 km tenggara Kota Tasikmalaya",
     "warning": [
-      "II - III Kab. Bandung",
-      "III Cianjur"
+      "II-III Tasikmalaya",
+      "II-III Pangandaran",
+      "II-III Ciamis"
     ]
   },
   {
-    "waktu": "02/12/2023 21:57:22 WIB",
-    "lintang": "2.67 LS",
-    "bujur": "129.62 BT",
-    "magnitudo": "5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 21 km TimurLaut Wahai",
+    "waktu": "16/02/2024 15:22:48 WIB",
+    "lintang": "2.15 LU",
+    "bujur": "97.85 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "31 Km",
+    "wilayah": "Pusat gempa berada di laut 21 km Tenggara Kab. Aceh Singkil",
     "warning": [
-      "II Kairatu"
+      "III - IV Kab. Aceh Singkil",
+      "III Kota Subulussalam"
     ]
   },
   {
-    "waktu": "02/12/2023 21:37:07 WIB",
-    "lintang": "8.53 LU",
-    "bujur": "126.59 BT",
-    "magnitudo": "7.5",
-    "kedalaman": "56 Km",
-    "wilayah": "Pusat gempa berada di laut 420 km BaratLaut Pulau Karatung",
+    "waktu": "15/02/2024 22:54:03 WIB",
+    "lintang": "8.56 LS",
+    "bujur": "112.22 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "100 Km",
+    "wilayah": "Pusat gempa berada di laut 47 km Tenggara Kab. Blitar",
     "warning": [
-      "III Naha"
-    ]
-  },
-  {
-    "waktu": "02/12/2023 20:42:04 WIB",
-    "lintang": "3.53 LS",
-    "bujur": "102.01 BT",
-    "magnitudo": "5",
-    "kedalaman": "108 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km BaratDaya Bengkulu Utara",
-    "warning": [
-      "II-III Kota Bengkulu",
-      "II Mukomuko"
-    ]
-  },
-  {
-    "waktu": "02/12/2023 19:01:02 WIB",
-    "lintang": "7.13 LS",
-    "bujur": "129.81 BT",
-    "magnitudo": "6",
-    "kedalaman": "157 Km",
-    "wilayah": "Pusat gempa berada di laut 190 km BaratLaut Tanimbar",
-    "warning": [
-      "II-III Saumlaki",
-      "II Tual",
-      "II Damer"
-    ]
-  },
-  {
-    "waktu": "02/12/2023 12:37:31 WIB",
-    "lintang": "9.38 LS",
-    "bujur": "112.65 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 138 km Tenggara Kab. Malang",
-    "warning": [
+      "II Blitar",
+      "II Karangkates",
+      "II Trenggalek",
       "II Malang",
-      "II Lumajang"
+      "II Pacitan"
     ]
   },
   {
-    "waktu": "01/12/2023 07:15:09 WIB",
-    "lintang": "8.16 LS",
-    "bujur": "124.58 BT",
-    "magnitudo": "3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 15 km TimurLaut Alor",
+    "waktu": "15/02/2024 18:25:09 WIB",
+    "lintang": "5.05 LS",
+    "bujur": "123.22 BT",
+    "magnitudo": "2.9",
+    "kedalaman": "20 Km",
+    "wilayah": "Pusat gempa berada di laut 22 Km Timur laut Lasalimu kabupaten buton",
     "warning": [
-      "III Alor"
+      "II-III Lasalimu"
+    ]
+  },
+  {
+    "waktu": "14/02/2024 01:32:02 WIB",
+    "lintang": "3.26 LS",
+    "bujur": "115.12 BT",
+    "magnitudo": "4.1",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 15 km timur laut Banjar",
+    "warning": [
+      "II-III Kab. Banjar"
+    ]
+  },
+  {
+    "waktu": "13/02/2024 14:09:17 WIB",
+    "lintang": "3.23 LS",
+    "bujur": "115.18 BT",
+    "magnitudo": "3.3",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 22 km TimurLaut Banjar",
+    "warning": [
+      "III Kab. Banjar"
+    ]
+  },
+  {
+    "waktu": "13/02/2024 09:51:56 WIB",
+    "lintang": "2.05 LU",
+    "bujur": "98.93 BT",
+    "magnitudo": "3",
+    "kedalaman": "4 Km",
+    "wilayah": "Pusat gempa berada di darat 5 km BaratLaut Tapanuli Utara",
+    "warning": [
+      "III Tarutung"
+    ]
+  },
+  {
+    "waktu": "13/02/2024 08:22:24 WIB",
+    "lintang": "3.19 LS",
+    "bujur": "115.12 BT",
+    "magnitudo": "4.7",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 19 km Timur Laut Banjarmasin",
+    "warning": [
+      "II-III Banjarmasin",
+      "II-III Kota Marabahan",
+      "II-III Pulau Pisau",
+      "II-III Palangkaraya",
+      "II-III Sampit"
+    ]
+  },
+  {
+    "waktu": "12/02/2024 04:04:22 WIB",
+    "lintang": "10.4 LS",
+    "bujur": "124.22 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 60 km Tenggara Kab. Kupang",
+    "warning": [
+      "II-III Kota Kupang"
+    ]
+  },
+  {
+    "waktu": "11/02/2024 20:06:10 WIB",
+    "lintang": "8.63 LS",
+    "bujur": "120.48 BT",
+    "magnitudo": "3.2",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada didarat 2 Km Tenggara Ruteng",
+    "warning": [
+      "II Ruteng"
+    ]
+  },
+  {
+    "waktu": "11/02/2024 17:42:01 WIB",
+    "lintang": "8.62 LS",
+    "bujur": "120.42 BT",
+    "magnitudo": "2.8",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 4 km BaratDaya Ruteng-Manggarai",
+    "warning": [
+      "II Ruteng"
+    ]
+  },
+  {
+    "waktu": "10/02/2024 21:44:30 WIB",
+    "lintang": "2.21 LS",
+    "bujur": "140.06 BT",
+    "magnitudo": "4.2",
+    "kedalaman": "6 Km",
+    "wilayah": "Pusat gempa berada di 44 km BaratLaut GENYEM-JAYAPURA",
+    "warning": [
+      "II Kab. Jayapura"
     ]
   }
 ]
